@@ -1,0 +1,7 @@
+.coin {
+    position: absolute;
+    color: white;
+    top: 5px;
+    right: 5px;
+    font-family: 'Cairo', sans-serif;
+}
